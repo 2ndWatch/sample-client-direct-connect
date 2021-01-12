@@ -9,6 +9,7 @@ ACME will provide all beverages and snacks while 2W will assist with consumption
 2W will work with Standard Operating Procedure #TK421 to expedite delivery and satisfy checklists.
 
 ## Personnel
+The following people are involved in this project.
 Personnel Name | Personnel Company | Personnel Role | Personnel Email
 ---------------|-------------------|----------------|-----------------
 Anthony Stark | ACME SAMPLE CORP | Chief Technical Officer | ir0nman@acmesample
