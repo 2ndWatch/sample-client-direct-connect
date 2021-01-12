@@ -16,4 +16,4 @@ Chester Tester | ACME SAMPLE CORP | Ping Deployer | acmehelpme@acmesample
 Clark Kent | 2nd Watch | Mild-Mannered Consultant | super@krypton
 
 ## Diagrams
-[Placeholder link for LucidChart diagram]{https://www.lucidchart.com)
+[Placeholder link for LucidChart diagram](https://www.lucidchart.com)
