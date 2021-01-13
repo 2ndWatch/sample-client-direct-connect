@@ -18,3 +18,14 @@ Clark Kent | 2nd Watch | Mild-Mannered Consultant | super@krypton
 
 ## Diagrams
 [Placeholder link for LucidChart diagram](https://www.lucidchart.com)
+
+## Artifacts
+
+### python.py
+This deploys lots of pythons.
+
+### shell.ps1
+This deploys lots of turtle shells.
+
+### hush.sh
+Shhhhhhh.
