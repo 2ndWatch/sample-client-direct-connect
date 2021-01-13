@@ -20,6 +20,8 @@ Clark Kent | 2nd Watch | Mild-Mannered Consultant | super@krypton
 [Placeholder link for LucidChart diagram](https://www.lucidchart.com)
 
 ## Artifacts
+### Environment
+These artifacts were used on Windows NT4 with COBOL v1.0.
 
 ### python.py
 This deploys lots of pythons.
